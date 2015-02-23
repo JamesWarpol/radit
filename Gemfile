@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'devise', '~> 3.4.1'
 gem 'bootstrap-sass', '~> 3.3.3'
+gem 'acts_as_votable', '~> 0.10.0'
 
 group :doc do
   gem 'sdoc', require: false
